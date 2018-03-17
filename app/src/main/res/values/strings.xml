@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">KAHFIAHADIAN_1202154215_MODUL4</string>
+    <string-array name="namaMhs">
+        <item>Sukidi</item>
+        <item>Purnawarman</item>
+        <item>siapa</item>
+        <item>aja</item>
+        <item>boleh</item>
+        <item>asalkan</item>
+        <item>jangan</item>
+        <item>ngasal</item>
+        <item>soalnya</item>
+        <item>nanti</item>
+        <item>jadi</item>
+        <item>aneh</item>
+        <item>gitu</item>
+    </string-array>
+</resources>
